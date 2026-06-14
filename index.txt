@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+Nandhini - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Nandhini Pothunuri
+Nandhini Pothunuri
+Full Stack developer
 
 Show Contacts
 
 Email
-richard@example.com
+nandini020905@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 9550088342
 
 Birthday
-June 23, 1982
+September 02, 2005
 
 Location
-Sacramento, California, USA
+Metpally, Telangana, India
 
 # navbar
 
@@ -32,198 +32,132 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I am an Engineering student passionate about Full Stack Web Development, programming, and building creative technical projects. I enjoy learning new technologies and improving my coding skills through real-world practice.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+I have knowledge of HTML, CSS, JavaScript, Python, C, and C++. I have also participated in Smart India Hackathon, completed a ServiceNow Virtual Internship, and designed a Heart Disease Prediction mobile application.
 
+Currently, I am shortlisted for the Future Interns Full Stack Development Internship where I am building professional portfolio and web development projects. My goal is to become a skilled software developer and create impactful digital solutions
 
-## service
+What I'm Doing
 
-What i'm doing
+• Frontend Development
+Creating responsive and modern websites using HTML, CSS, JavaScript and React.
 
-alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+• Full Stack Development
+Building complete web applications with frontend, backend and database integration.
 
-alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+• C++ Programming
+Solving programming problems and improving logical thinking using C++ concepts.
 
-alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
-
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
+• Internship Experience
+Completed an 8-week ServiceNow virtual internship and shortlisted for Future Intern Full Stack Development.
 
 
-## testimonials
+Achievements
 
-Testimonials
+• C++ Workshop
+Successfully attended a C++ programming workshop and improved problem-solving and coding skills.
 
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+• ServiceNow Internship
+Completed an 8-week virtual internship in ServiceNow with hands-on learning and project experience.
 
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-
-## clients
-
-Clients
-
-alt = client logo
-
-
-
-# resume
-
+• Future Intern
+Shortlisted for the Future Intern program in Full Stack Development based on technical skills and performance.
 Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Bachelor of Technology (B.Tech) – Computer Science
+2024 — Present
+Currently pursuing B.Tech in Computer Science with focus on programming, web development and software technologies.
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+Intermediate Education
+2022 — 2024
+Completed intermediate education with strong interest in computer science and problem-solving skills.
 
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+School Education
+2021 — 2022
+Completed SSC with good academic performance and active participation in technical activities.
+
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+ServiceNow Virtual Internship
+2024
+Completed an 8-week virtual internship in ServiceNow with practical learning experience and project-based tasks.
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Future Intern – Full Stack Development
+2025
+Shortlisted for the Future Intern program in Full Stack Development based on technical and development skills.
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-My skills
-
-Web design
-80%
-Graphic design
-70%
-Branding
-90%
-WordPress
-50%
+C++ Workshop
+2024
+Successfully attended a C++ workshop and improved programming knowledge, logical thinking and coding skills.
 
 
+My Skills
 
-# portfolio
-
+HTML & CSS — 90%
+JavaScript — 80%
+React JS — 75%
+C++ Programming — 85%
+Full Stack Development — 75%
 Portfolio
 
-All
-Web design
-Applications
-Web development
+• Personal Portfolio Website
+Category: Web Development
+Designed and developed a responsive personal portfolio website using HTML, CSS and JavaScript.
 
-Select category
-All
-Web design
-Applications
-Web development
+• Task Manager Application
+Category: Applications
+Built a task management application to organize daily tasks with clean UI and user-friendly features.
 
-alt = finance
-Finance
-Web development
+• Weather App
+Category: Applications
+Created a weather forecasting application using API integration to display real-time weather updates.
 
-alt = orizon
-Orizon
-Web development
+• Student Management System
+Category: Web Development
+Developed a student management system for storing and managing student records efficiently.
 
-alt = fundo
-Fundo
-Web design
+• Landing Page Design
+Category: Web Design
+Designed modern and responsive landing pages with attractive UI and smooth user experience.
 
-alt = brawlhalla
-Brawlhalla
-Applications
+• E-Commerce Website
+Category: Web Development
+Built a simple e-commerce website with product pages, cart section and responsive layout.
 
-alt = dsm.
-DSM.
-Web design
-
-alt = metaspark
-MetaSpark
-Web design
-
-alt = summary
-Summary
-Web development
-
-alt = task manager
-Task Manager
-Applications
-
-alt = arrival
-Arrival
-Web development
-
-
-
-# blog
 
 Blog
 
-alt = Design conferences in 2022
-Design
-Fab 23, 2022
-Design conferences in 2022
-Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+• My C++ Workshop Experience
+March 2024
+Shared my learning experience, coding concepts and problem-solving techniques gained during the C++ workshop.
 
-alt = Best fonts every designer
-Design
-Fab 23, 2022
-Best fonts every designer
-Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+• ServiceNow Internship Journey
+May 2024
+Wrote about my 8-week virtual internship experience, projects and practical knowledge in ServiceNow.
 
-alt = Design digest #80
-Design
-Fab 23, 2022
-Design digest #80
-Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+• Full Stack Development Learning
+July 2024
+Explained my journey in learning frontend and backend development technologies step by step.
 
-alt = UI interactions of the week
-Design
-Fab 23, 2022
-UI interactions of the week
-Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+• Building My Portfolio Website
+August 2024
+Described the process of designing and developing my personal portfolio website.
 
-alt = The forgotten art of spacing
-Design
-Fab 23, 2022
-The Forgotten Art Of Spacing
-Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+• Importance of Web Development Skills
+September 2024
+Discussed why web development skills are important for students and future software developers.
 
-alt = Design digest #79
-Design
-Fab 23, 2022
-Design Digest #79
-Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+• My Future Goals in Technology
+October 2024
+Shared my career goals, interests in software development and plans for becoming a full stack developer.
+
+
+
+
 
 
 
